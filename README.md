@@ -24,8 +24,10 @@ AI Fusion Pipeline Builder is an intelligent system developed using Google Colab
 ## 📊 Dataset
 Contains structured data used for training and testing AI pipeline workflows.
 
-## 📸 Screenshots
-(Add your app screenshots here)
+## 🚀 Live Demo
+
+[🔗 Open AI Fusion Pipeline Builder]
+(https://auto-ai-mind.lovable.app/)
 
 ## 👩‍💻 Author
 Uswa Noor  
